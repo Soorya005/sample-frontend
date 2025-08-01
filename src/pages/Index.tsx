@@ -1,7 +1,7 @@
-import WildlifeAlertSystem from '@/components/WildlifeAlertSystem';
+import WildGuard from '@/components/WildGuard.jsx';
 
 const Index = () => {
-  return <WildlifeAlertSystem />;
+  return <WildGuard />;
 };
 
 export default Index;

@@ -8,8 +8,8 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    /* GitHub-inspired professional design system */
-    --background: 0 0% 100%;
+    /* WildGuard color scheme */
+    --background: 240 20% 94%;
     --foreground: 213 10% 15%;
 
     --card: 0 0% 100%;
@@ -18,7 +18,7 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 213 10% 15%;
 
-    --primary: 213 10% 15%;
+    --primary: 142 69% 58%;
     --primary-foreground: 0 0% 100%;
 
     --secondary: 213 14% 96%;
@@ -27,7 +27,7 @@ All colors MUST be HSL.
     --muted: 213 10% 96%;
     --muted-foreground: 213 8% 46%;
 
-    --accent: 212 96% 52%;
+    --accent: 142 69% 58%;
     --accent-foreground: 0 0% 100%;
 
     --success: 142 76% 36%;
@@ -41,12 +41,7 @@ All colors MUST be HSL.
 
     --border: 213 12% 88%;
     --input: 213 12% 88%;
-    --ring: 212 96% 52%;
-
-    /* Professional shadows */
-    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
-    --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
-    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+    --ring: 142 69% 58%;
 
     --radius: 0.375rem;
 
